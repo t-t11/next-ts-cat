@@ -40,7 +40,7 @@ const Home: NextPage = () => {
         onClick={handleClick}
         className="button h-14 w-56 text-base font-bold bg-transparent cursor-pointer"
       >
-        他の猫も見る
+        See Another Cats!!!
       </button>
     </div>
   );
